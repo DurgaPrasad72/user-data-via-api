@@ -1,11 +1,16 @@
-import React from "react";
-import "./style.css";
-
+import React from 'react';
+import './style.css';
+import Page1 from './Page1';
+import Page2 from './Page2'
 export default function App() {
   return (
     <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
+      <Page1 />
+      <br />
+      <br/>
+      <br />
+      <br/>
+      <Page2 />
     </div>
   );
 }

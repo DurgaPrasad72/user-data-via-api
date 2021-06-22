@@ -1,0 +1,12 @@
+img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50px;
+}
+h4:hover {
+  background-color: yellow;
+}
+ul{
+  list-style: number;
+  text-shadow: 25px;
+}
